@@ -1,7 +1,7 @@
 {
   "name": "Basic Kubernetes Pod",
-  "id": "com.github.tejas-2232.plugin.templates.basic-pod-template",
-  "author": "Tejas Bachhav",
+  "id": "com.github.hzp1015.plugin.templates.basic-pod-template",
+  "author": "hzp1015",
   "version": "1.0.0",
   "description": "This file creates a Pod for a specified Image",
   "repository": "",
@@ -20,5 +20,5 @@
     }
   ],
   "resultMessage": "Pod resource created successfully!",
-  "helpUrl": "https://github.com/tejas-2232/monokle_template-plugin"
+  "helpUrl": "https://github.com/hzp1015/monokle-templates-plugin"
 }
