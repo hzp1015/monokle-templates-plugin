@@ -1,0 +1,11 @@
+{
+  "terminal.integrated.profiles.windows": {
+    "cmder.exe": {
+      "path": "C:\\Windows\\system32\\cmd.exe",
+      "args": [
+        "/k E:\\cmder\\vendor\\init.bat"
+      ]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "cmder.exe",
+}
